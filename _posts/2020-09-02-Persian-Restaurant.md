@@ -3,7 +3,8 @@ published: true
 ---
 ## Website themplate for restaurant
 use simple html css with power of Sass.
-[persian restaurant](https://solgideveloper.github.io/Persian-Restaurant/ "Go to Live")![persian restaurant]
+
+[persian restaurant](https://solgideveloper.github.io/Persian-Restaurant/ "Go to Live")!
 
 
 
