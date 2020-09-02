@@ -13,6 +13,9 @@ A place to include any other types of information that you'd like to include abo
 
 ![]({{site.baseurl}}/https://raw.githubusercontent.com/SolgiDeveloper/Persian-Restaurant/master/images/bg.jpeg)
 
+![taj.png]({{site.baseurl}}/taj.png)
+
+
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
