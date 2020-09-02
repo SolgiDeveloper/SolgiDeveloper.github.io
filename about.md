@@ -11,7 +11,7 @@ Some information about you!
 
 A place to include any other types of information that you'd like to include about yourself.
 
-![]({{site.baseurl}}/https://raw.githubusercontent.com/SolgiDeveloper/Persian-Restaurant/master/images/bg.jpeg)
+![](https://raw.githubusercontent.com/SolgiDeveloper/Persian-Restaurant/master/images/bg.jpeg)
 
 ![taj.png]({{site.baseurl}}/taj.png)
 
