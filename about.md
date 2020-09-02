@@ -5,16 +5,12 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+## Website themplate for restaurant
+_use simple html css with power of Sass._
 
-### More Information
+[persian restaurant](https://solgideveloper.github.io/Persian-Restaurant/ "Go to Live")
 
-A place to include any other types of information that you'd like to include about yourself.
-
-![](https://raw.githubusercontent.com/SolgiDeveloper/Persian-Restaurant/master/images/bg.jpeg)
-
-![taj.png]({{site.baseurl}}/taj.png)
-
+![pres.JPG]({{site.baseurl}}/pres.JPG)
 
 ### Contact me
 
