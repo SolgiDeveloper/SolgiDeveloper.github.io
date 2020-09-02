@@ -14,4 +14,4 @@ _use simple html css with power of Sass._
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:mohammadsolgi96@gmail.com)
