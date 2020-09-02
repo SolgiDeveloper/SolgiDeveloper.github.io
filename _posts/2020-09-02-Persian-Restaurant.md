@@ -11,4 +11,4 @@ _use simple html css with power of Sass._
 
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Enter text in [Markdown](mohammadsolgi96@gmail.com). Use the toolbar above, or click the **?** button for formatting help.
