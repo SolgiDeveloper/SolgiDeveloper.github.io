@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Portfolio
 permalink: /about/
-published: true
+published: false
 ---
 
 Some information about you!
