@@ -7,7 +7,7 @@ use simple html css with power of Sass.
 [persian restaurant](https://solgideveloper.github.io/Persian-Restaurant/ "Go to Live")
 
 
-![img 1]({{site.baseurl}}/https://raw.githubusercontent.com/SolgiDeveloper/Persian-Restaurant/master/images/bg.jpeg)
+![img 1]({{site.baseurl}}/https://media-cdn.tripadvisor.com/media/photo-s/0e/cc/0a/dc/restaurant-chocolat.jpg)
 
 ![img2]({{site.baseurl}}/images/bg.jpeg)
 
