@@ -1,4 +1,4 @@
-Website themplate for restaurant
+### Website themplate for restaurant
 
 _use simple html & css with power of Sass._
 
