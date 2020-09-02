@@ -4,7 +4,9 @@ title: You're up and running!
 published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I am a Web Developer with enthusiasm and focus on Fullstack  Development and Scripting.
+I am passionate about building scalable software, creating effective solutions, and learning every day to grow professionally in the IT field.
+Feel free to contact me via email at any time
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
